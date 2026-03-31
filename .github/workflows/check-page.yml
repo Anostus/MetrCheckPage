@@ -26,7 +26,7 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       - name: Run change detection
-        run: python scripts/check_page.py
+        run: python check_page.py
 
       - name: Commit and push changes
         run: |
