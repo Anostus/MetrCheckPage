@@ -5,7 +5,14 @@
     <link>https://metr.org/time-horizons/</link>
     <description>Daily change-detection feed for the METR Task-Completion Time Horizons page.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 09:51:56 +0000</lastBuildDate>
+    <item>
+      <title>CHANGED — https://metr.org/time-horizons/</title>
+      <link>https://metr.org/time-horizons/</link>
+      <description>'Last Updated' date changed from "March 3, 2026" to "April 10, 2026". Visible page text changed. Raw HTML changed.</description>
+      <pubDate>Sat, 11 Apr 2026 09:51:56 +0000</pubDate>
+      <guid isPermaLink="false">metr-monitor-20260411T095156Z</guid>
+    </item>
     <item>
       <title>UNCHANGED — https://metr.org/time-horizons/</title>
       <link>https://metr.org/time-horizons/</link>
