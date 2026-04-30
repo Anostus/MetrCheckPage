@@ -5,5 +5,15 @@
     <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
     <description>Change-detection feed for METR benchmark_results_1_1.yaml.</description>
     <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 18:02:28 +0000</lastBuildDate>
+    <item>
+      <title>INITIAL — Monitoring started</title>
+      <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
+      <description>Started monitoring https://metr.org/assets/benchmark_results_1_1.yaml.
+Current parsed YAML hash: 293fabfaca8a9a0beac02b4e05e82dc492193018ff5cea14aa59e0a868388ef3.
+Current YAML shape: mapping with 5 top-level key(s): benchmark_name, doubling_time_in_days, long_tasks_version, results, swaa_version.</description>
+      <pubDate>Thu, 30 Apr 2026 18:02:28 +0000</pubDate>
+      <guid isPermaLink="false">metr-yaml-monitor-20260430T180228Z</guid>
+    </item>
   </channel>
 </rss>
