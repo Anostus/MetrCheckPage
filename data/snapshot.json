@@ -3,7 +3,7 @@
   "data_hash": "293fabfaca8a9a0beac02b4e05e82dc492193018ff5cea14aa59e0a868388ef3",
   "raw_hash": "0e720b3668aed37ec767ba20acf57650343c7a334f394c117024ba2fddc742f5",
   "shape": "mapping with 5 top-level key(s): benchmark_name, doubling_time_in_days, long_tasks_version, results, swaa_version",
-  "checked_at": "2026-05-05T10:51:10.742426+00:00",
+  "checked_at": "2026-05-06T11:11:14.152324+00:00",
   "data": {
     "benchmark_name": "METR-Horizon-v1.1",
     "doubling_time_in_days": {
