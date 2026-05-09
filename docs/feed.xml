@@ -5,7 +5,21 @@
     <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
     <description>Change-detection feed for METR benchmark_results_1_1.yaml.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 10:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 10:13:27 +0000</lastBuildDate>
+    <item>
+      <title>CHANGED — parsed YAML data changed</title>
+      <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
+      <description>Detected 1 structural YAML change(s) since the last check: 1 added.
+
+Details:
++ $.results.claude_mythos_preview_early_inspect = {mapping with 4 key(s): benchmark_name, metrics, release_date, scaffolds}
+
+Raw YAML text also changed.
+
+New parsed YAML hash: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5</description>
+      <pubDate>Sat, 09 May 2026 10:13:27 +0000</pubDate>
+      <guid isPermaLink="false">metr-yaml-monitor-20260509T101327Z</guid>
+    </item>
     <item>
       <title>UNCHANGED — YAML unchanged</title>
       <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>

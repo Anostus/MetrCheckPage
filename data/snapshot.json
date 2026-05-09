@@ -1,9 +1,9 @@
 {
   "target_url": "https://metr.org/assets/benchmark_results_1_1.yaml",
-  "data_hash": "293fabfaca8a9a0beac02b4e05e82dc492193018ff5cea14aa59e0a868388ef3",
-  "raw_hash": "0e720b3668aed37ec767ba20acf57650343c7a334f394c117024ba2fddc742f5",
+  "data_hash": "cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5",
+  "raw_hash": "aae31902b0519a4da73e16643915e5e8aca13cd3315c3aac893ce3d6dfe92ad9",
   "shape": "mapping with 5 top-level key(s): benchmark_name, doubling_time_in_days, long_tasks_version, results, swaa_version",
-  "checked_at": "2026-05-08T10:44:42.603400+00:00",
+  "checked_at": "2026-05-09T10:13:27.525587+00:00",
   "data": {
     "benchmark_name": "METR-Horizon-v1.1",
     "doubling_time_in_days": {
@@ -675,6 +675,33 @@
           "re_bench_common/init_solver,use_tools,triframe_inspect/triframe_agent",
           "metr_tasks_swaa/init_solver,generate",
           "triframe_inspect/triframe_agent"
+        ]
+      },
+      "claude_mythos_preview_early_inspect": {
+        "benchmark_name": "METR-Horizon-v1.1",
+        "metrics": {
+          "average_score": {
+            "estimate": 0.85205
+          },
+          "is_sota": true,
+          "p50_horizon_length": {
+            "ci_high": 3304.261235,
+            "ci_low": 508.876789,
+            "estimate": 1044.780145
+          },
+          "p80_horizon_length": {
+            "ci_high": 398.514614,
+            "ci_low": 97.30292,
+            "estimate": 185.911829
+          }
+        },
+        "release_date": "2026-04-07",
+        "scaffolds": [
+          "mtb/start_metr_task,metr_agents/react",
+          "ai_rd_fix_embedding/init_solver,use_tools,metr_agents/react",
+          "re_bench_common/init_solver,use_tools,metr_agents/react",
+          "metr_tasks_swaa/init_solver,generate",
+          "metr_agents/react"
         ]
       }
     },
