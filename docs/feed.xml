@@ -5,7 +5,15 @@
     <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
     <description>Change-detection feed for METR benchmark_results_1_1.yaml.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:12:55 +0000</lastBuildDate>
+    <item>
+      <title>UNCHANGED — YAML unchanged</title>
+      <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
+      <description>No changes detected in the parsed YAML or raw YAML text.
+Parsed YAML hash is still: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5</description>
+      <pubDate>Tue, 21 Jul 2026 11:12:55 +0000</pubDate>
+      <guid isPermaLink="false">metr-yaml-monitor-20260721T111255Z</guid>
+    </item>
     <item>
       <title>UNCHANGED — YAML unchanged</title>
       <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
