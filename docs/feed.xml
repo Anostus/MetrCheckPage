@@ -5,7 +5,15 @@
     <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
     <description>Change-detection feed for METR benchmark_results_1_1.yaml.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:11:24 +0000</lastBuildDate>
+    <item>
+      <title>UNCHANGED — YAML unchanged</title>
+      <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
+      <description>No changes detected in the parsed YAML or raw YAML text.
+Parsed YAML hash is still: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5</description>
+      <pubDate>Fri, 14 Aug 2026 10:11:24 +0000</pubDate>
+      <guid isPermaLink="false">metr-yaml-monitor-20260814T101124Z</guid>
+    </item>
     <item>
       <title>UNCHANGED — YAML unchanged</title>
       <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
@@ -717,14 +725,6 @@ Parsed YAML hash is still: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a
 Parsed YAML hash is still: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5</description>
       <pubDate>Sat, 16 May 2026 10:22:02 +0000</pubDate>
       <guid isPermaLink="false">metr-yaml-monitor-20260516T102202Z</guid>
-    </item>
-    <item>
-      <title>UNCHANGED — YAML unchanged</title>
-      <link>https://metr.org/assets/benchmark_results_1_1.yaml</link>
-      <description>No changes detected in the parsed YAML or raw YAML text.
-Parsed YAML hash is still: cca307755b4a6878803b975e584838dc80a0a0a71cb61f083b76a47124ebbec5</description>
-      <pubDate>Fri, 15 May 2026 11:25:54 +0000</pubDate>
-      <guid isPermaLink="false">metr-yaml-monitor-20260515T112554Z</guid>
     </item>
   </channel>
 </rss>
